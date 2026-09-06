@@ -13,12 +13,12 @@ hr{
     color: blueviolet;
     height: 15px;
     background-color: blueviolet;
-    width: 80%;
+    width: 90%;
 }
 
 img{
     /*dimensiones  heigth*/
-    max-width: 30%;
+    max-width: 20%;
     height: auto;
     /*bordes y esquinas*/
     border: 3px solid #333;
@@ -31,4 +31,16 @@ img{
 button{
     display: block;
     margin: 0 auto;
+}
+
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgba(47, 78, 79, 0.773);
+    text-align: justify;
+}
+
+div{
+    margin: 10px 60px;
 }
